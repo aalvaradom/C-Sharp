@@ -1,0 +1,12 @@
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\bin\Debug\AirlineReservation.exe.config
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\bin\Debug\AirlineReservation.exe
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\bin\Debug\AirlineReservation.pdb
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.csprojAssemblyReference.cache
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.EditDelete.resources
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.frmReservations.resources
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.PassengerLookup.resources
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.Properties.Resources.resources
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.csproj.GenerateResource.cache
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.csproj.CoreCompileInputs.cache
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.exe
+\\Manatt.com\Library\Homedirs\LA\MAlvarado\Data\My Documents\C#\AirlineReservation\AirlineReservation\obj\Debug\AirlineReservation.pdb
